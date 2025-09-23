@@ -1,0 +1,21 @@
+DE,G0+G2 characters index
+PN,42000
+SC,0000
+PS,8000
+RE,0
+CT,20,T
+OL,1,T]W8d`,0 8d  8d`,0   h                  
+OL,2,T]W5pj85 9f  5p 8! 6#j#46kj&$f3         
+OL,3,T]W-.",! )f$ -.*,$ ),* %).*  ,&         
+OL,5, G0 pages visible at all Levels.        
+OL,6, G2 pages visible at Level 1.5 up.      
+OL,8, 421FG0 Latin                           
+OL,10, 422FG2 Latin                           
+OL,12, 423FG0 Cyrillic                        
+OL,14, 424FG2 Cyrillic                        
+OL,16, 425FG0 and G2 Greek                    
+OL,18, 426FG0 and G2 Arabic                   
+OL,20, 427FG0 Hebrew                          
+OL,22, 428FG3 mosaics                         
+OL,24,AG0 LatinBG2 LatinCG0 Cyr'licFG2 Cyr'lic
+FL,421,422,423,424,421,420

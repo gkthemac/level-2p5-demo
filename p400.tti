@@ -1,0 +1,17 @@
+PN,40000
+SC,0000
+PS,8000
+RE,0
+CT,20,T
+OL,1,T]W8,h            `            `        
+OL,2,T]W5 j#46kj&$6kh#!n$vyj&$ f3hs4n$f3     
+OL,3,T]W),* %).*  ).",$* )$*   ,&", * ,&     
+OL,5, Level 2.5 decoders can show a wider    
+OL,6, variety of characters, both Latin with 
+OL,7, diacriticals and other alphabets.      
+OL,10, 410FNational Option Subsets            
+OL,12, 420FG0 and G2 character sets           
+OL,14, 430FG0 Latin characters with           
+OL,15,    Fdiacriticals                       
+OL,24,ANational OptBG0/G2CG0 diac'sFL2.5 index
+FL,410,420,430,100,100,100

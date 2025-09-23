@@ -1,0 +1,59 @@
+DE,Level 1 NOS region 0011
+PN,41401
+SC,0001
+PS,c280
+RE,3
+CT,20,T
+OL,28,@@z|gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,T]Wth   ` 0       h `,0   0`      F(1/2)
+OL,2,T]W7~h#5n$46ij&46kj j 57i(=hh#4=i       
+OL,3,T]W%*",%* %)&* %).* ",!7! %*",!%*       
+OL,5,M              SERBIAN/CROAT/SLOVENIAN  
+OL,7,  C2 3 4 5 6 7GRegion 0011  NOS 101     
+OL,8,C0G  0F@GPF`Gp                          
+OL,9,C1G! 1 A Q a q                          
+OL,10,C2G" 2 B R b r                          
+OL,11,C3F#G3 C S c s B2/3G#CNumber sign       
+OL,12,C4F$G4 D T d t B2/4G$CCaptl e diaeresis 
+OL,13,C5G% 5 E U e u B4/0G@CCaptl c caron     
+OL,14,C6G& 6 F V f v B5/BG[CCaptl c acute     
+OL,15,C7G' 7 G W g w B5/CG\CCaptl z caron     
+OL,16,C8G( 8 H X h x B5/DG]CCaptl d stroke    
+OL,17,C9G) 9 I Y i y B5/EG^CCaptl s caron     
+OL,18,CAG* : J Z j z B5/FG_CSmall e diaeresis 
+OL,19,CBG+ ; KF[GkF{ B6/0G`CSmall c caron     
+OL,20,CCG, < LF\GlF| B7/BG{CSmall c acute     
+OL,21,CDG- = MF]GmF} B7/CG|CSmall z caron     
+OL,22,CEG. > NF^GnF~ B7/DG}CSmall d stroke    
+OL,23,CFG/ ? OF_Go  B7/EG~CSmall s caron     
+OL,24,ARegn 0100BRegn 0110CRegn 1000FRegn 0000
+FL,415,416,417,411,415,410
+PN,41402
+SC,0002
+PS,c380
+RE,3
+CT,20,T
+OL,28,@@~|gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,T]Wth   ` 0       h `,0   0`      F(2/2)
+OL,2,T]W7~h#5n$46ij&46kj j 57i(=hh#4=i       
+OL,3,T]W%*",%* %)&* %).* ",!7! %*",!%*       
+OL,5,M              RUMANIAN                 
+OL,7,  C2 3 4 5 6 7GRegion 0011  NOS 111     
+OL,8,C0G  0F@GPF`Gp                          
+OL,9,C1G! 1 A Q a q                          
+OL,10,C2G" 2 B R b r                          
+OL,11,C3F#G3 C S c s B2/3G#CNumber sign       
+OL,12,C4F$G4 D T d t B2/4G$CCurrency sign     
+OL,13,C5G% 5 E U e u B4/0G@CCaptl t comma     
+OL,14,C6G& 6 F V f v B5/BG[CCaptl a circumflex
+OL,15,C7G' 7 G W g w B5/CG\CCaptl s comma     
+OL,16,C8G( 8 H X h x B5/DG]CCaptl a breve     
+OL,17,C9G) 9 I Y i y B5/EG^CCaptl i circumflex
+OL,18,CAG* : J Z j z B5/FG_CSmall i dotless   
+OL,19,CBG+ ; KF[GkF{ B6/0G`CSmall t comma     
+OL,20,CCG, < LF\GlF| B7/BG{CSmall a circumflex
+OL,21,CDG- = MF]GmF} B7/CG|CSmall s comma     
+OL,22,CEG. > NF^GnF~ B7/DG}CSmall a breve     
+OL,23,CFG/ ? OF_Go  B7/EG~CSmall i circumflex
+OL,24,AReg'n 0100BReg'n 0110CReg'n 1000FIndex 
+FL,415,416,417,411,415,410

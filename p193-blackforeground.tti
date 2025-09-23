@@ -1,0 +1,27 @@
+DE,Black foreground test
+PN,19300
+SC,0000
+PS,8000
+CT,8,T
+OL,1,CLevel 2.5 introduced new spacing       
+OL,2,Cattributes for black foreground alpha- 
+OL,3,Cnumerics and mosaics. Although not part
+OL,4,Cof the Level 1/1.5 spec, all modern    
+OL,5,Cdecoders seem to interpret them.       
+OL,6, ]             ZP<04    4  t`4      $   
+OL,7, ]@Black Alpha ZP=15656!=1 5%564f!6556! 
+OL,8, ]             ZP-!%)%)$%% % %)!,!)%%)$ 
+OL,9,A]D@F/g  blue=classic,black=modern  
+OL,10,CBlack foreground then new background   
+OL,11,@]B B/g     white=classic,black=modern  
+OL,12,CAs well as ignoring black foreground,  
+OL,13,Cclassic decoders also ignore switches  
+OL,14,Cbetween alphanumerics and mosaics.     
+OL,15,F]D            P<04    4  t`4      $    
+OL,16,F]D Blue Alpha P=15656!=1 5%564f!6556!  
+OL,17,F]D            P-!%)%)$%% % %)!,!)%%)$  
+OL,18,V]T <04     t`4      $                  
+OL,19,V]T =1555v4 5%564f!6556! @Black Alpha   
+OL,20,V]T -!%)%)$ % %)!,!)%%)$                
+OL,21,CDoes this decoder do black foreground? 
+OL,22,@MNo it doesn't     ]G      Yes it does 

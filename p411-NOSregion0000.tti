@@ -1,0 +1,204 @@
+DE,Level 1 NOS region 0000
+PN,41101
+SC,0001
+PS,c000
+RE,0
+CT,20,T
+OL,28,@@@|gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,T]Wth   ` 0       h `,0   0`      F(1/7)
+OL,2,T]W7~h#5n$46ij&46kj j 57i(=hh#4=i       
+OL,3,T]W%*",%* %)&* %).* ",!7! %*",!%*       
+OL,5,M              ENGLISH                  
+OL,7,  C2 3 4 5 6 7GRegion 0000  NOS 000     
+OL,8,C0G  0F@GPF`Gp                          
+OL,9,C1G! 1 A Q a q                          
+OL,10,C2G" 2 B R b r                          
+OL,11,C3F#G3 C S c s B2/3G#CPound sign        
+OL,12,C4F$G4 D T d t B2/4G$CDollar sign       
+OL,13,C5G% 5 E U e u B4/0G@CCommercial at     
+OL,14,C6G& 6 F V f v B5/BG[CLeftwards arrow   
+OL,15,C7G' 7 G W g w B5/CG\CFra one half      
+OL,16,C8G( 8 H X h x B5/DG]CRightwards arrow  
+OL,17,C9G) 9 I Y i y B5/EG^CUpwards arrow     
+OL,18,CAG* : J Z j z B5/FG_CPound sign        
+OL,19,CBG+ ; KF[GkF{ B6/0G`CBox drw horizontal
+OL,20,CCG, < LF\GlF| B7/BG{CFra one quarter   
+OL,21,CDG- = MF]GmF} B7/CG|CVertical line(s)  
+OL,22,CEG. > NF^GnF~ B7/DG}CFra three quarters
+OL,23,CFG/ ? OF_Go  B7/EG~CDivision sign     
+OL,24,ARegn 0001BRegn 0010CRegn 0011FRegn 0100
+FL,412,413,414,415,412,410
+PN,41102
+SC,0002
+PS,c200
+RE,0
+CT,20,T
+OL,28,@@B|gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,T]Wth   ` 0       h `,0   0`      F(2/7)
+OL,2,T]W7~h#5n$46ij&46kj j 57i(=hh#4=i       
+OL,3,T]W%*",%* %)&* %).* ",!7! %*",!%*       
+OL,5,M              GERMAN                   
+OL,7,  C2 3 4 5 6 7GRegion 0000  NOS 001     
+OL,8,C0G  0F@GPF`Gp                          
+OL,9,C1G! 1 A Q a q                          
+OL,10,C2G" 2 B R b r                          
+OL,11,C3F#G3 C S c s B2/3G#CNumber sign       
+OL,12,C4F$G4 D T d t B2/4G$CDollar sign       
+OL,13,C5G% 5 E U e u B4/0G@CSection sign      
+OL,14,C6G& 6 F V f v B5/BG[CCaptl a diaeresis 
+OL,15,C7G' 7 G W g w B5/CG\CCaptl o diaeresis 
+OL,16,C8G( 8 H X h x B5/DG]CCaptl u diaeresis 
+OL,17,C9G) 9 I Y i y B5/EG^CCircumflex accent 
+OL,18,CAG* : J Z j z B5/FG_CLow line          
+OL,19,CBG+ ; KF[GkF{ B6/0G`CDegree sign       
+OL,20,CCG, < LF\GlF| B7/BG{CSmall a diaeresis 
+OL,21,CDG- = MF]GmF} B7/CG|CSmall o diaeresis 
+OL,22,CEG. > NF^GnF~ B7/DG}CSmall u diaeresis 
+OL,23,CFG/ ? OF_Go  B7/EG~CSmall sharp s     
+OL,24,ARegn 0001BRegn 0010CRegn 0011FRegn 0100
+FL,412,413,414,415,412,410
+PN,41103
+SC,0003
+PS,c100
+RE,0
+CT,20,T
+OL,28,@@D|gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,T]Wth   ` 0       h `,0   0`      F(3/7)
+OL,2,T]W7~h#5n$46ij&46kj j 57i(=hh#4=i       
+OL,3,T]W%*",%* %)&* %).* ",!7! %*",!%*       
+OL,5,M              SWEDISH/FINNISH/HUNGARIAN
+OL,7,  C2 3 4 5 6 7GRegion 0000  NOS 010     
+OL,8,C0G  0F@GPF`Gp                          
+OL,9,C1G! 1 A Q a q                          
+OL,10,C2G" 2 B R b r                          
+OL,11,C3F#G3 C S c s B2/3G#CNumber sign       
+OL,12,C4F$G4 D T d t B2/4G$CCurrency sign     
+OL,13,C5G% 5 E U e u B4/0G@CCaptl e acute     
+OL,14,C6G& 6 F V f v B5/BG[CCaptl a diaeresis 
+OL,15,C7G' 7 G W g w B5/CG\CCaptl o diaeresis 
+OL,16,C8G( 8 H X h x B5/DG]CCaptl a ring above
+OL,17,C9G) 9 I Y i y B5/EG^CCaptl u diaeresis 
+OL,18,CAG* : J Z j z B5/FG_CLow line          
+OL,19,CBG+ ; KF[GkF{ B6/0G`CSmall e acute     
+OL,20,CCG, < LF\GlF| B7/BG{CSmall a diaeresis 
+OL,21,CDG- = MF]GmF} B7/CG|CSmall o diaeresis 
+OL,22,CEG. > NF^GnF~ B7/DG}CSmall a ring above
+OL,23,CFG/ ? OF_Go  B7/EG~CSmall u diaeresis 
+OL,24,ARegn 0001BRegn 0010CRegn 0011FRegn 0100
+FL,412,413,414,415,412,410
+PN,41104
+SC,0004
+PS,c300
+RE,0
+CT,20,T
+OL,28,@@F|gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,T]Wth   ` 0       h `,0   0`      F(4/7)
+OL,2,T]W7~h#5n$46ij&46kj j 57i(=hh#4=i       
+OL,3,T]W%*",%* %)&* %).* ",!7! %*",!%*       
+OL,5,M              ITALIAN                  
+OL,7,  C2 3 4 5 6 7GRegion 0000  NOS 011     
+OL,8,C0G  0F@GPF`Gp                          
+OL,9,C1G! 1 A Q a q                          
+OL,10,C2G" 2 B R b r                          
+OL,11,C3F#G3 C S c s B2/3G#CPound sign        
+OL,12,C4F$G4 D T d t B2/4G$CDollar sign       
+OL,13,C5G% 5 E U e u B4/0G@CSmall e acute     
+OL,14,C6G& 6 F V f v B5/BG[CDegree sign       
+OL,15,C7G' 7 G W g w B5/CG\CSmall c cedilla   
+OL,16,C8G( 8 H X h x B5/DG]CRightwards arrow  
+OL,17,C9G) 9 I Y i y B5/EG^CUpwards arrow     
+OL,18,CAG* : J Z j z B5/FG_CNumber sign       
+OL,19,CBG+ ; KF[GkF{ B6/0G`CSmall u grave     
+OL,20,CCG, < LF\GlF| B7/BG{CSmall a grave     
+OL,21,CDG- = MF]GmF} B7/CG|CSmall o grave     
+OL,22,CEG. > NF^GnF~ B7/DG}CSmall e grave     
+OL,23,CFG/ ? OF_Go  B7/EG~CSmall i grave     
+OL,24,ARegn 0001BRegn 0010CRegn 0011FRegn 0100
+FL,412,413,414,415,412,410
+PN,41105
+SC,0005
+PS,c080
+RE,0
+CT,20,T
+OL,28,@@H|gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,T]Wth   ` 0       h `,0   0`      F(5/7)
+OL,2,T]W7~h#5n$46ij&46kj j 57i(=hh#4=i       
+OL,3,T]W%*",%* %)&* %).* ",!7! %*",!%*       
+OL,5,M              FRENCH                   
+OL,7,  C2 3 4 5 6 7GRegion 0000  NOS 100     
+OL,8,C0G  0F@GPF`Gp                          
+OL,9,C1G! 1 A Q a q                          
+OL,10,C2G" 2 B R b r                          
+OL,11,C3F#G3 C S c s B2/3G#CSmall e acute     
+OL,12,C4F$G4 D T d t B2/4G$CSmall i diaeresis 
+OL,13,C5G% 5 E U e u B4/0G@CSmall a grave     
+OL,14,C6G& 6 F V f v B5/BG[CSmall e diaeresis 
+OL,15,C7G' 7 G W g w B5/CG\CSmall e circumflex
+OL,16,C8G( 8 H X h x B5/DG]CSmall u grave     
+OL,17,C9G) 9 I Y i y B5/EG^CSmall i circumflex
+OL,18,CAG* : J Z j z B5/FG_CNumber sign       
+OL,19,CBG+ ; KF[GkF{ B6/0G`CSmall e grave     
+OL,20,CCG, < LF\GlF| B7/BG{CSmall a circumflex
+OL,21,CDG- = MF]GmF} B7/CG|CSmall o circumflex
+OL,22,CEG. > NF^GnF~ B7/DG}CSmall u circumflex
+OL,23,CFG/ ? OF_Go  B7/EG~CSmall c cedilla   
+OL,24,ARegn 0001BRegn 0010CRegn 0011FRegn 0100
+FL,412,413,414,415,412,410
+PN,41106
+SC,0006
+PS,c280
+RE,0
+CT,20,T
+OL,28,@@J|gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,T]Wth   ` 0       h `,0   0`      F(6/7)
+OL,2,T]W7~h#5n$46ij&46kj j 57i(=hh#4=i       
+OL,3,T]W%*",%* %)&* %).* ",!7! %*",!%*       
+OL,5,M              PORTUGUESE/SPANISH       
+OL,7,  C2 3 4 5 6 7GRegion 0000  NOS 101     
+OL,8,C0G  0F@GPF`Gp                          
+OL,9,C1G! 1 A Q a q                          
+OL,10,C2G" 2 B R b r                          
+OL,11,C3F#G3 C S c s B2/3G#CSmall c cedilla   
+OL,12,C4F$G4 D T d t B2/4G$CDollar sign       
+OL,13,C5G% 5 E U e u B4/0G@CInvert exclamation
+OL,14,C6G& 6 F V f v B5/BG[CSmall a acute     
+OL,15,C7G' 7 G W g w B5/CG\CSmall e acute     
+OL,16,C8G( 8 H X h x B5/DG]CSmall i acute     
+OL,17,C9G) 9 I Y i y B5/EG^CSmall o acute     
+OL,18,CAG* : J Z j z B5/FG_CSmall u acute     
+OL,19,CBG+ ; KF[GkF{ B6/0G`CInvert question   
+OL,20,CCG, < LF\GlF| B7/BG{CSmall u diaeresis 
+OL,21,CDG- = MF]GmF} B7/CG|CSmall n tilde     
+OL,22,CEG. > NF^GnF~ B7/DG}CSmall e grave     
+OL,23,CFG/ ? OF_Go  B7/EG~CSmall a grave     
+OL,24,ARegn 0001BRegn 0010CRegn 0011FRegn 0100
+FL,412,413,414,415,412,410
+PN,41107
+SC,0007
+PS,c180
+RE,0
+CT,20,T
+OL,28,@@L|gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,T]Wth   ` 0       h `,0   0`      F(7/7)
+OL,2,T]W7~h#5n$46ij&46kj j 57i(=hh#4=i       
+OL,3,T]W%*",%* %)&* %).* ",!7! %*",!%*       
+OL,5,M              CZECH/SLOVAK             
+OL,7,  C2 3 4 5 6 7GRegion 0000  NOS 110     
+OL,8,C0G  0F@GPF`Gp                          
+OL,9,C1G! 1 A Q a q                          
+OL,10,C2G" 2 B R b r                          
+OL,11,C3F#G3 C S c s B2/3G#CNumber sign       
+OL,12,C4F$G4 D T d t B2/4G$CSmall u ring above
+OL,13,C5G% 5 E U e u B4/0G@CSmall c caron     
+OL,14,C6G& 6 F V f v B5/BG[CSmall t caron     
+OL,15,C7G' 7 G W g w B5/CG\CSmall z caron     
+OL,16,C8G( 8 H X h x B5/DG]CSmall y acute     
+OL,17,C9G) 9 I Y i y B5/EG^CSmall i acute     
+OL,18,CAG* : J Z j z B5/FG_CSmall r caron     
+OL,19,CBG+ ; KF[GkF{ B6/0G`CSmall e acute     
+OL,20,CCG, < LF\GlF| B7/BG{CSmall a acute     
+OL,21,CDG- = MF]GmF} B7/CG|CSmall e caron     
+OL,22,CEG. > NF^GnF~ B7/DG}CSmall u acute     
+OL,23,CFG/ ? OF_Go  B7/EG~CSmall s caron     
+OL,24,ARegn 0001BRegn 0010CRegn 0011FRegn 0100
+FL,412,413,414,415,412,410

@@ -1,0 +1,30 @@
+DE,G0 diacriticals index
+PN,43000
+SC,0000
+PS,8000
+RE,0
+CT,8,T
+OL,26,@mD@GO`nD@Go`oD@GOapD@GoarD@GObsD@GobtD@
+OL,26,AGOcuD@GocwD@GOdxD@GodyD@GOezD@Goe|D@GOf
+OL,26,B}D@Gof~D@GOgD@GogCCCCCCC
+OL,1,T]W8d`,0  h`        0` 0     4          
+OL,2,T]W5pj85 6khh#56#j&$4n$46#h#55f3        
+OL,3,T]W-.",! ).*",%),*  %* %),",%%,&        
+OL,5, 431F0   No diacritical                 
+OL,6,    B1   Grave                          
+OL,7,    F2   Acute                          
+OL,8,    B3   Circumflex                     
+OL,10, 432F4   Tilde                          
+OL,11,    B5   Macron                         
+OL,12,    F6   Breve                          
+OL,13,    B7   Dot above                      
+OL,15, 433F8   Diaeresis                      
+OL,16,    B9   Dot below                      
+OL,17,    FA   Ring above                     
+OL,18,    BB   Cedilla                        
+OL,20, 434FC   Low line                       
+OL,21,    BD   Double acute                   
+OL,22,    FE   Ogonek                         
+OL,23,    BF   Caron                          
+OL,24,ADiacs 0-3BDiacs 4-7CDiacs 8-BFDiacs C-F
+FL,431,432,433,434,431,400

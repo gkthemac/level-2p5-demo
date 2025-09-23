@@ -1,0 +1,59 @@
+DE,Level 1 NOS region 1000
+PN,41701
+SC,0001
+PS,c000
+RE,8
+CT,20,T
+OL,28,@@@~gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,T]Wth   ` 0       h `,0   0`      F(1/2)
+OL,2,T]W7~h#5n$46ij&46kj j 57i(=hh#4=i       
+OL,3,T]W%*",%* %)&* %).* ",!7! %*",!%*       
+OL,5,M              ENGLISH                  
+OL,7,  C2 3 4 5 6 7GRegion 1000  NOS 000     
+OL,8,C0G  0F@GPF`Gp                          
+OL,9,C1G! 1 A Q a q                          
+OL,10,C2G" 2 B R b r                          
+OL,11,C3F#G3 C S c s B2/3G#CPound sign        
+OL,12,C4F$G4 D T d t B2/4G$CDollar sign       
+OL,13,C5G% 5 E U e u B4/0G@CCommercial at     
+OL,14,C6G& 6 F V f v B5/BG[CLeftwards arrow   
+OL,15,C7G' 7 G W g w B5/CG\CFra one half      
+OL,16,C8G( 8 H X h x B5/DG]CRightwards arrow  
+OL,17,C9G) 9 I Y i y B5/EG^CUpwards arrow     
+OL,18,CAG* : J Z j z B5/FG_CPound sign        
+OL,19,CBG+ ; KF[GkF{ B6/0G`CBox drw horizontal
+OL,20,CCG, < LF\GlF| B7/BG{CFra one quarter   
+OL,21,CDG- = MF]GmF} B7/CG|CVertical line(s)  
+OL,22,CEG. > NF^GnF~ B7/DG}CFra three quarters
+OL,23,CFG/ ? OF_Go  B7/EG~CDivision sign     
+OL,24,ARegn 0000BRegn 0001CRegn 0010FRegn 0011
+FL,411,412,413,414,411,410
+PN,41702
+SC,0002
+PS,c080
+RE,8
+CT,20,T
+OL,28,@@H~gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,T]Wth   ` 0       h `,0   0`      F(2/2)
+OL,2,T]W7~h#5n$46ij&46kj j 57i(=hh#4=i       
+OL,3,T]W%*",%* %)&* %).* ",!7! %*",!%*       
+OL,5,M              FRENCH                   
+OL,7,  C2 3 4 5 6 7GRegion 1000  NOS 100     
+OL,8,C0G  0F@GPF`Gp                          
+OL,9,C1G! 1 A Q a q                          
+OL,10,C2G" 2 B R b r                          
+OL,11,C3F#G3 C S c s B2/3G#CSmall e acute     
+OL,12,C4F$G4 D T d t B2/4G$CSmall i diaeresis 
+OL,13,C5G% 5 E U e u B4/0G@CSmall a grave     
+OL,14,C6G& 6 F V f v B5/BG[CSmall e diaeresis 
+OL,15,C7G' 7 G W g w B5/CG\CSmall e circumflex
+OL,16,C8G( 8 H X h x B5/DG]CSmall u grave     
+OL,17,C9G) 9 I Y i y B5/EG^CSmall i circumflex
+OL,18,CAG* : J Z j z B5/FG_CNumber sign       
+OL,19,CBG+ ; KF[GkF{ B6/0G`CSmall e grave     
+OL,20,CCG, < LF\GlF| B7/BG{CSmall a circumflex
+OL,21,CDG- = MF]GmF} B7/CG|CSmall o circumflex
+OL,22,CEG. > NF^GnF~ B7/DG}CSmall u circumflex
+OL,23,CFG/ ? OF_Go  B7/EG~CSmall c cedilla   
+OL,24,ARegn 0000BRegn 0001CRegn 0010FRegn 0011
+FL,411,412,413,414,411,410

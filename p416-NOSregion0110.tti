@@ -1,0 +1,30 @@
+DE,Level 1 NOS region 0110
+PN,41600
+SC,0000
+PS,c180
+RE,6
+CT,20,T
+OL,28,@@l}gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,T]Wth   ` 0       h `,0   0`            
+OL,2,T]W7~h#5n$46ij&46kj j 57i(=hh#4=i       
+OL,3,T]W%*",%* %)&* %).* ",!7! %*",!%*       
+OL,5,M              TURKISH                  
+OL,7,  C2 3 4 5 6 7GRegion 0110  NOS 110     
+OL,8,C0G  0F@GPF`Gp                          
+OL,9,C1G! 1 A Q a q                          
+OL,10,C2G" 2 B R b r                          
+OL,11,C3F#G3 C S c s B2/3G#CTurkish Lira sign 
+OL,12,C4F$G4 D T d t B2/4G$CSmall g breve     
+OL,13,C5G% 5 E U e u B4/0G@CCaptl i dot above 
+OL,14,C6G& 6 F V f v B5/BG[CCaptl s cedilla   
+OL,15,C7G' 7 G W g w B5/CG\CCaptl o diaeresis 
+OL,16,C8G( 8 H X h x B5/DG]CCaptl c cedilla   
+OL,17,C9G) 9 I Y i y B5/EG^CCaptl u diaeresis 
+OL,18,CAG* : J Z j z B5/FG_CCaptl g breve     
+OL,19,CBG+ ; KF[GkF{ B6/0G`CSmall i dotless   
+OL,20,CCG, < LF\GlF| B7/BG{CSmall s cedilla   
+OL,21,CDG- = MF]GmF} B7/CG|CSmall o diaeresis 
+OL,22,CEG. > NF^GnF~ B7/DG}CSmall c cedilla   
+OL,23,CFG/ ? OF_Go  B7/EG~CSmall u diaersis  
+OL,24,ARegn 1000BRegn 0000CRegn 0001FRegn 0010
+FL,417,411,412,413,417,410

@@ -1,0 +1,35 @@
+DE,Demo of Level diagnostic using G3
+PN,19100
+SC,0000
+PS,8000
+CT,8,T
+OL,28,@@@|gpCu_@|wWT[Ap}Ls_w}ww]_}_w}{u
+OL,26,@jAzkdLhQ]hqi[BX[k_\bT\k_]k\kdOhRxlD@HbX
+OL,26,AKbPRbXUbP[AP\AumD@MBrNBROBZPBzmdL\k_nD@
+OL,26,BMB}NB]OBUPBuoD@NBrOBzYk_ZaZpD@HbpKbxNB}
+OL,26,COBuRbpUbxZk_[k_\k__PW`pZraw_CpU]@kTAk_
+OL,26,DiD@@aWAaRjD@AAuBaDK^kD@CAuDalD@CAuDa
+OL,26,EmD@@kqDkyhui@kTAk_iD@@aWAaRjD@@kXAkUBkS
+OL,26,FDkxkD@@k_AKxBkuCksDkolD@CkoDkomD@@k_Dk_
+OL,26,GxVxBaCaDaEaFaiD@BaCaZjD@BaCaDa
+OL,26,HEaFk\kD@EAuFalD@BaCaZEAuFamD@@KgAIP
+OL,26,IBkqCaDaEaFkyBBBBBBBB
+OL,2,T]W                                     
+OL,3,T]W                       x          
+OL,4,T]W    `pp0 p  p `pp0    "k          
+OL,5,T]W    //    //     j          
+OL,6,T]W    || j5j5 ||     j          
+OL,7,T]W    ###    ###     j          
+OL,8,T]W o?  j5  o?     jG         
+OL,9,T]W                                     
+OL,11, TheFeveGis smoothed usingCG3 Smooth    
+OL,12,CMosaic @ Level 1.5Gtriplets which are  
+OL,13, not rendered by all Level 1.5 decoders.
+OL,15, TheF2GandF3Gare overlapping Active     
+OL,16, Objects where the Definitions are      
+OL,17,Crequired at Level 2.5 onlyGandCrequired
+OL,18,Cat Level 3.5 onlyGrespectively.        
+OL,20, TheF3Gis invoked first andF2Gis invoked
+OL,21, second to work around a common Level   
+OL,22, 2.5 decoder bug where Level 3.5 only   
+OL,23, Objects are incorrectly rendered.      

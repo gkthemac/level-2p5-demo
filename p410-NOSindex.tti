@@ -1,0 +1,29 @@
+DE,Level 1 NOS index
+PN,41000
+SC,0000
+PS,8000
+RE,0
+CT,20,T
+OL,1,T]Wth   ` 0       h `,0   0`            
+OL,2,T]W7~h#5n$46ij&46kj j 57i(=hh#4=i       
+OL,3,T]W%*",%* %)&* %).* ",!7! %*",!%*       
+OL,5, 411 Region 0000F- English, German,     
+OL,6,    FSwedish/Finnish/Hungarian, Italian,
+OL,7,    FFrench, Portuguese/Spanish,        
+OL,8,    FCzech/Slovak                       
+OL,9, 412 Region 0001B- Polish, German,      
+OL,10,    BSwedish/Finnish/Hungarian, Italian,
+OL,11,    BFrench, Czech/Slovak               
+OL,12, 413 Region 0010F- English, German,     
+OL,13,    FSwedish/Finnish/Hungarian, Italian,
+OL,14,    FFrench, Portuguese/Spanish, Turkish
+OL,15, 414 Region 0011B- Serbian/Croatian/    
+OL,16,    BSlovenian, Rumanian                
+OL,17, 415 Region 0100F- Serbian/Croatian,    
+OL,18,    FGerman, Estonian, Lettish/         
+OL,19,    FLithuanian, Russian/Bulgarian,     
+OL,20,    FUkranian, Czech/Slovak             
+OL,21, 416 Region 0110B- Turkish              
+OL,22, 417 Region 1000F- English, French      
+OL,24,AReg'n 0000BReg'n 0001CReg'n 0010FIndex 
+FL,411,412,413,400,401,400

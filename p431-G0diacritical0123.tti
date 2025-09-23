@@ -1,0 +1,145 @@
+DE,G0 diacritical characters 0-3
+PN,43101
+SC,0001
+PS,8000
+RE,0
+CT,20,T
+OL,26,@kD@bO`pD@OPPQPXSP`UPhWPpYPxqD@OpPQpXSp`
+OL,26,AUphWppYpxrD@OPQQPYSPaUPiWPqYPysD@OpQQpY
+OL,26,BSpaUpiWpqYpytD@OPRQPZSPbUPjWPrYPzuD@OpR
+OL,26,CQpZSpbUpjWprYpzvD@OPSQP[SPcUPkWPsYP{wD@
+OL,26,DOpSQp[SpcUpkWpsYp{xD@OPTQP\SPdUPlWPtYP|
+OL,26,EyD@OpTQp\SpdUplWptYp|zD@OPUQP]SPeUPmWPu
+OL,26,FYP}{D@OpUQp]SpeUpmWpuYp}|D@OPVQP^SPfUPn
+OL,26,GWPvYP~}D@OpVQp^SpfUpnWpvYp~~D@OPWQP_SPg
+OL,26,HUPoWPwYPD@OpWQp_SpgUpoWpwYp
+OL,1,T]W8d`,0  h`        0` 0     4 8d F(1/4)
+OL,2,T]W5pj85 6khh#56#j&$4n$46#h#55 un       
+OL,3,T]W-.",! ).*",%),*  %* %),",%% )&       
+OL,7,              C2 3 4 5 6 7              
+OL,8,            C0G                         
+OL,9,            C1G                         
+OL,10,            C2G                         
+OL,11,            C3G                         
+OL,12,            C4G                         
+OL,13,            C5G                         
+OL,14,            C6G                         
+OL,15,            C7G                         
+OL,16,            C8G                         
+OL,17,            C9G                         
+OL,18,            CAG                         
+OL,19,            CBG                         
+OL,20,            CCG                         
+OL,21,            CDG                         
+OL,22,            CEG                         
+OL,23,            CFG                         
+OL,24,ADiacs 4-7BDiacs 8-BCDiacs C-FFDiacIndex
+FL,432,433,434,430,432,430
+PN,43102
+SC,0002
+PS,8000
+RE,0
+CT,20,T
+OL,26,@kD@bo`pD@OQPQQXSQ`UQhWQpYQxqD@OqPQqXSq`
+OL,26,AUqhWqpYqxrD@OQQQQYSQaUQiWQqYQysD@OqQQqY
+OL,26,BSqaUqiWqqYqytD@OQRQQZSQbUQjWQrYQzuD@OqR
+OL,26,CQqZSqbUqjWqrYqzvD@OQSQQ[SQcUQkWQsYQ{wD@
+OL,26,DOqSQq[SqcUqkWqsYq{xD@OQTQQ\SQdUQlWQtYQ|
+OL,26,EyD@OqTQq\SqdUqlWqtYq|zD@OQUQQ]SQeUQmWQu
+OL,26,FYQ}{D@OqUQq]SqeUqmWquYq}|D@OQVQQ^SQfUQn
+OL,26,GWQvYQ~}D@OqVQq^SqfUqnWqvYq~~D@OQWQQ_SQg
+OL,26,HUQoWQwYQD@OqWQq_SqgUqoWqwYq
+OL,1,T]W8d`,0  h`        0` 0     4 x  F(2/4)
+OL,2,T]W5pj85 6khh#56#j&$4n$46#h#55 j        
+OL,3,T]W-.",! ).*",%),*  %* %),",%% .$       
+OL,7,              C2 3 4 5 6 7              
+OL,8,            C0G                         
+OL,9,            C1G                         
+OL,10,            C2G                         
+OL,11,            C3G                         
+OL,12,            C4G                         
+OL,13,            C5G                         
+OL,14,            C6G                         
+OL,15,            C7G                         
+OL,16,            C8G                         
+OL,17,            C9G                         
+OL,18,            CAG                         
+OL,19,            CBG                         
+OL,20,            CCG                         
+OL,21,            CDG                         
+OL,22,            CEG                         
+OL,23,            CFG                         
+OL,24,ADiacs 4-7BDiacs 8-BCDiacs C-FFDiacIndex
+FL,432,433,434,430,432,430
+PN,43103
+SC,0003
+PS,8000
+RE,0
+CT,20,T
+OL,26,@kD@bOapD@ORPQRXSR`URhWRpYRxqD@OrPQrXSr`
+OL,26,AUrhWrpYrxrD@ORQQRYSRaURiWRqYRysD@OrQQrY
+OL,26,BSraUriWrqYrytD@ORRQRZSRbURjWRrYRzuD@OrR
+OL,26,CQrZSrbUrjWrrYrzvD@ORSQR[SRcURkWRsYR{wD@
+OL,26,DOrSQr[SrcUrkWrsYr{xD@ORTQR\SRdURlWRtYR|
+OL,26,EyD@OrTQr\SrdUrlWrtYr|zD@ORUQR]SReURmWRu
+OL,26,FYR}{D@OrUQr]SreUrmWruYr}|D@ORVQR^SRfURn
+OL,26,GWRvYR~}D@OrVQr^SrfUrnWrvYr~~D@ORWQR_SRg
+OL,26,HURoWRwYRD@OrWQr_SrgUroWrwYr
+OL,1,T]W8d`,0  h`        0` 0     4 8d F(3/4)
+OL,2,T]W5pj85 6khh#56#j&$4n$46#h#55 `&       
+OL,3,T]W-.",! ).*",%),*  %* %),",%% -,       
+OL,7,              C2 3 4 5 6 7              
+OL,8,            C0G                         
+OL,9,            C1G                         
+OL,10,            C2G                         
+OL,11,            C3G                         
+OL,12,            C4G                         
+OL,13,            C5G                         
+OL,14,            C6G                         
+OL,15,            C7G                         
+OL,16,            C8G                         
+OL,17,            C9G                         
+OL,18,            CAG                         
+OL,19,            CBG                         
+OL,20,            CCG                         
+OL,21,            CDG                         
+OL,22,            CEG                         
+OL,23,            CFG                         
+OL,24,ADiacs 4-7BDiacs 8-BCDiacs C-FFDiacIndex
+FL,432,433,434,430,432,430
+PN,43104
+SC,0004
+PS,8000
+RE,0
+CT,20,T
+OL,26,@kD@boapD@OSPQSXSS`UShWSpYSxqD@OsPQsXSs`
+OL,26,AUshWspYsxrD@OSQQSYSSaUSiWSqYSysD@OsQQsY
+OL,26,BSsaUsiWsqYsytD@OSRQSZSSbUSjWSrYSzuD@OsR
+OL,26,CQsZSsbUsjWsrYszvD@OSSQS[SScUSkWSsYS{wD@
+OL,26,DOsSQs[SscUskWssYs{xD@OSTQS\SSdUSlWStYS|
+OL,26,EyD@OsTQs\SsdUslWstYs|zD@OSUQS]SSeUSmWSu
+OL,26,FYS}{D@OsUQs]SseUsmWsuYs}|D@OSVQS^SSfUSn
+OL,26,GWSvYS~}D@OsVQs^SsfUsnWsvYs~~D@OSWQS_SSg
+OL,26,HUSoWSwYSD@OsWQs_SsgUsoWswYs
+OL,1,T]W8d`,0  h`        0` 0     4 ,l F(4/4)
+OL,2,T]W5pj85 6khh#56#j&$4n$46#h#55 (e       
+OL,3,T]W-.",! ).*",%),*  %* %),",%% ,&       
+OL,7,              C2 3 4 5 6 7              
+OL,8,            C0G                         
+OL,9,            C1G                         
+OL,10,            C2G                         
+OL,11,            C3G                         
+OL,12,            C4G                         
+OL,13,            C5G                         
+OL,14,            C6G                         
+OL,15,            C7G                         
+OL,16,            C8G                         
+OL,17,            C9G                         
+OL,18,            CAG                         
+OL,19,            CBG                         
+OL,20,            CCG                         
+OL,21,            CDG                         
+OL,22,            CEG                         
+OL,23,            CFG                         
+OL,24,ADiacs 4-7BDiacs 8-BCDiacs C-FFDiacIndex
+FL,432,433,434,430,432,430

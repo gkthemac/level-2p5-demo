@@ -1,0 +1,204 @@
+DE,Level 1 NOS region 0100
+PN,41501
+SC,0001
+PS,c000
+RE,4
+CT,20,T
+OL,28,@@@EbpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,T]Wth   ` 0       h `,0   0`      F(1/7)
+OL,2,T]W7~h#5n$46ij&46kj j 57i(=hh#4=i       
+OL,3,T]W%*",%* %)&* %).* ",!7! %*",!%*       
+OL,5,M              [CYRILLIC 1 SERB/CROAT   
+OL,7,  C2 3 4 5 6 7[GRegion 0100  NOS 000    
+OL,8,C0G  0F@GPF`Gp                          
+OL,9,C1G! 1 A Q a q                          
+OL,10,C2G" 2 B R b r                          
+OL,11,C3F#G3 C S c s B2/3G#[CNumber sign      
+OL,12,C4F$G4 D T d t B2/4G$[CDollar sign      
+OL,13,C5G% 5 E U e u B4/0G@[CCaptl che        
+OL,14,C6G& 6 F V f v B5/BG[[CCaptl tshe       
+OL,15,C7G' 7 G W g w B5/CG\[CCaptl zhe        
+OL,16,C8G( 8 H X h x B5/DG][CCaptl dje        
+OL,17,C9G) 9 I Y i y B5/EG^[CCaptl sha        
+OL,18,CAG* : J Z j z B5/FG_[CCaptl dzhe       
+OL,19,CBG+ ; KF[GkF{ B6/0G`[CSmall che        
+OL,20,CCG, < LF\GlF| B7/BG{[CSmall tshe       
+OL,21,CDG- = MF]GmF} B7/CG|[CSmall zhe        
+OL,22,CEG. > NF^GnF~ B7/DG}[CSmall dje        
+OL,23,CFG/ ? OF_Go  B7/EG~[CSmall sha        
+OL,24,[ARegn 0110BRegn 1000CRegn 0000FRegn0001
+FL,416,417,411,412,416,410
+PN,41502
+SC,0002
+PS,c200
+RE,4
+CT,20,T
+OL,28,@@B}gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,T]Wth   ` 0       h `,0   0`      F(2/7)
+OL,2,T]W7~h#5n$46ij&46kj j 57i(=hh#4=i       
+OL,3,T]W%*",%* %)&* %).* ",!7! %*",!%*       
+OL,5,M              GERMAN                   
+OL,7,  C2 3 4 5 6 7GRegion 0100  NOS 001     
+OL,8,C0G  0F@GPF`Gp                          
+OL,9,C1G! 1 A Q a q                          
+OL,10,C2G" 2 B R b r                          
+OL,11,C3F#G3 C S c s B2/3G#CNumber sign       
+OL,12,C4F$G4 D T d t B2/4G$CDollar sign       
+OL,13,C5G% 5 E U e u B4/0G@CSection sign      
+OL,14,C6G& 6 F V f v B5/BG[CCaptl a diaeresis 
+OL,15,C7G' 7 G W g w B5/CG\CCaptl o diaeresis 
+OL,16,C8G( 8 H X h x B5/DG]CCaptl u diaeresis 
+OL,17,C9G) 9 I Y i y B5/EG^CCircumflex accent 
+OL,18,CAG* : J Z j z B5/FG_CLow line          
+OL,19,CBG+ ; KF[GkF{ B6/0G`CDegree sign       
+OL,20,CCG, < LF\GlF| B7/BG{CSmall a diaeresis 
+OL,21,CDG- = MF]GmF} B7/CG|CSmall o diaeresis 
+OL,22,CEG. > NF^GnF~ B7/DG}CSmall u diaeresis 
+OL,23,CFG/ ? OF_Go  B7/EG~CSmall sharp s     
+OL,24,ARegn 0110BRegn 1000CRegn 0000FRegn 0001
+FL,416,417,411,412,416,410
+PN,41503
+SC,0003
+PS,c100
+RE,4
+CT,20,T
+OL,28,@@D}gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,T]Wth   ` 0       h `,0   0`      F(3/7)
+OL,2,T]W7~h#5n$46ij&46kj j 57i(=hh#4=i       
+OL,3,T]W%*",%* %)&* %).* ",!7! %*",!%*       
+OL,5,M              ESTONIAN                 
+OL,7,  C2 3 4 5 6 7GRegion 0100  NOS 010     
+OL,8,C0G  0F@GPF`Gp                          
+OL,9,C1G! 1 A Q a q                          
+OL,10,C2G" 2 B R b r                          
+OL,11,C3F#G3 C S c s B2/3G#CNumber sign       
+OL,12,C4F$G4 D T d t B2/4G$CSmall o tilde     
+OL,13,C5G% 5 E U e u B4/0G@CCaptl s caron     
+OL,14,C6G& 6 F V f v B5/BG[CCaptl a diaeresis 
+OL,15,C7G' 7 G W g w B5/CG\CCaptl o diaeresis 
+OL,16,C8G( 8 H X h x B5/DG]CCaptl z caron     
+OL,17,C9G) 9 I Y i y B5/EG^CCaptl u diaeresis 
+OL,18,CAG* : J Z j z B5/FG_CCaptl o tilde     
+OL,19,CBG+ ; KF[GkF{ B6/0G`CSmall s caron     
+OL,20,CCG, < LF\GlF| B7/BG{CSmall a diaeresis 
+OL,21,CDG- = MF]GmF} B7/CG|CSmall o diaeresis 
+OL,22,CEG. > NF^GnF~ B7/DG}CSmall z caron     
+OL,23,CFG/ ? OF_Go  B7/EG~CSmall u diaeresis 
+OL,24,ARegn 0110BRegn 1000CRegn 0000FRegn 0001
+FL,416,417,411,412,416,410
+PN,41504
+SC,0004
+PS,c300
+RE,4
+CT,20,T
+OL,28,@@F}gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,T]Wth   ` 0       h `,0   0`      F(4/7)
+OL,2,T]W7~h#5n$46ij&46kj j 57i(=hh#4=i       
+OL,3,T]W%*",%* %)&* %).* ",!7! %*",!%*       
+OL,5,M              LETTISH/LITHUANIAN       
+OL,7,  C2 3 4 5 6 7GRegion 0100  NOS 011     
+OL,8,C0G  0F@GPF`Gp                          
+OL,9,C1G! 1 A Q a q                          
+OL,10,C2G" 2 B R b r                          
+OL,11,C3F#G3 C S c s B2/3G#CNumber sign       
+OL,12,C4F$G4 D T d t B2/4G$CDollar sign       
+OL,13,C5G% 5 E U e u B4/0G@CCaptl s caron     
+OL,14,C6G& 6 F V f v B5/BG[CSmall e dot above 
+OL,15,C7G' 7 G W g w B5/CG\CSmall e ogonek    
+OL,16,C8G( 8 H X h x B5/DG]CCaptl z caron     
+OL,17,C9G) 9 I Y i y B5/EG^CSmall c caron     
+OL,18,CAG* : J Z j z B5/FG_CSmall u macron    
+OL,19,CBG+ ; KF[GkF{ B6/0G`CSmall s caron     
+OL,20,CCG, < LF\GlF| B7/BG{CSmall a ogonek    
+OL,21,CDG- = MF]GmF} B7/CG|CSmall u ogonek    
+OL,22,CEG. > NF^GnF~ B7/DG}CSmall z caron     
+OL,23,CFG/ ? OF_Go  B7/EG~CSmall i ogonek    
+OL,24,ARegn 0110BRegn 1000CRegn 0000FRegn 0001
+FL,416,417,411,412,416,410
+PN,41505
+SC,0005
+PS,c080
+RE,4
+CT,20,T
+OL,28,@@HEbpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,T]Wth   ` 0       h `,0   0`      F(5/7)
+OL,2,T]W7~h#5n$46ij&46kj j 57i(=hh#4=i       
+OL,3,T]W%*",%* %)&* %).* ",!7! %*",!%*       
+OL,5,M              [CYRILLIC 2 RUSSIAN/BULG 
+OL,7,  C2 3 4 5 6 7[GRegion 0100  NOS 100    
+OL,8,C0G  0F@GPF`Gp                          
+OL,9,C1G! 1 A Q a q                          
+OL,10,C2G" 2 B R b r                          
+OL,11,C3F#G3 C S c s B2/3G#[CNumber sign      
+OL,12,C4F$G4 D T d t B2/4G$[CDollar sign      
+OL,13,C5G% 5 E U e u B4/0G@[CCaptl yu         
+OL,14,C6G& 6 F V f v B5/BG[[CCaptl sha        
+OL,15,C7G' 7 G W g w B5/CG\[CCaptl e          
+OL,16,C8G( 8 H X h x B5/DG][CCaptl shcha      
+OL,17,C9G) 9 I Y i y B5/EG^[CCaptl che        
+OL,18,CAG* : J Z j z B5/FG_[CCaptl yeru       
+OL,19,CBG+ ; KF[GkF{ B6/0G`[CSmall yu         
+OL,20,CCG, < LF\GlF| B7/BG{[CSmall sha        
+OL,21,CDG- = MF]GmF} B7/CG|[CSmall e          
+OL,22,CEG. > NF^GnF~ B7/DG}[CSmall shcha      
+OL,23,CFG/ ? OF_Go  B7/EG~[CSmall che        
+OL,24,[ARegn 0110BRegn 1000CRegn 0000FRegn0001
+FL,416,417,411,412,416,410
+PN,41506
+SC,0006
+PS,c280
+RE,4
+CT,20,T
+OL,28,@@JEbpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,T]Wth   ` 0       h `,0   0`      F(6/7)
+OL,2,T]W7~h#5n$46ij&46kj j 57i(=hh#4=i       
+OL,3,T]W%*",%* %)&* %).* ",!7! %*",!%*       
+OL,5,M              [CYRILLIC 3 UKRANIAN     
+OL,7,  C2 3 4 5 6 7[GRegion 0100  NOS 101    
+OL,8,C0G  0F@GPF`Gp                          
+OL,9,C1G! 1 A Q a q                          
+OL,10,C2G" 2 B R b r                          
+OL,11,C3F#G3 C S c s B2/3G#[CNumber sign      
+OL,12,C4F$G4 D T d t B2/4G$[CDollar sign      
+OL,13,C5G% 5 E U e u B4/0G@[CCaptl yu         
+OL,14,C6G& 6 F V f v B5/BG[[CCaptl sha        
+OL,15,C7G' 7 G W g w B5/CG\[CCaptl ie         
+OL,16,C8G( 8 H X h x B5/DG][CCaptl shcha      
+OL,17,C9G) 9 I Y i y B5/EG^[CCaptl che        
+OL,18,CAG* : J Z j z B5/FG_[CCaptl yi         
+OL,19,CBG+ ; KF[GkF{ B6/0G`[CSmall yu         
+OL,20,CCG, < LF\GlF| B7/BG{[CSmall sha        
+OL,21,CDG- = MF]GmF} B7/CG|[CSmall ie         
+OL,22,CEG. > NF^GnF~ B7/DG}[CSmall shcha      
+OL,23,CFG/ ? OF_Go  B7/EG~[CSmall che        
+OL,24,[ARegn 0110BRegn 1000CRegn 0000FRegn0001
+FL,416,417,411,412,416,410
+PN,41507
+SC,0007
+PS,c180
+RE,4
+CT,20,T
+OL,28,@@L}gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,T]Wth   ` 0       h `,0   0`      F(7/7)
+OL,2,T]W7~h#5n$46ij&46kj j 57i(=hh#4=i       
+OL,3,T]W%*",%* %)&* %).* ",!7! %*",!%*       
+OL,5,M              CZECH/SLOVAK             
+OL,7,  C2 3 4 5 6 7GRegion 0100  NOS 110     
+OL,8,C0G  0F@GPF`Gp                          
+OL,9,C1G! 1 A Q a q                          
+OL,10,C2G" 2 B R b r                          
+OL,11,C3F#G3 C S c s B2/3G#CNumber sign       
+OL,12,C4F$G4 D T d t B2/4G$CSmall u ring above
+OL,13,C5G% 5 E U e u B4/0G@CSmall c caron     
+OL,14,C6G& 6 F V f v B5/BG[CSmall t caron     
+OL,15,C7G' 7 G W g w B5/CG\CSmall z caron     
+OL,16,C8G( 8 H X h x B5/DG]CSmall y acute     
+OL,17,C9G) 9 I Y i y B5/EG^CSmall i acute     
+OL,18,CAG* : J Z j z B5/FG_CSmall r caron     
+OL,19,CBG+ ; KF[GkF{ B6/0G`CSmall e acute     
+OL,20,CCG, < LF\GlF| B7/BG{CSmall a acute     
+OL,21,CDG- = MF]GmF} B7/CG|CSmall e caron     
+OL,22,CEG. > NF^GnF~ B7/DG}CSmall u acute     
+OL,23,CFG/ ? OF_Go  B7/EG~CSmall s caron     
+OL,24,ARegn 0110BRegn 1000CRegn 0000FRegn 0001
+FL,416,417,411,412,416,410
