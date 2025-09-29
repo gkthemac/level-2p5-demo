@@ -8,7 +8,7 @@ OL,28,@@@|gpCuC@|pWT[Ap}Ls_w}ww]_}_w}{u
 OL,26,@jAzkD@YkT]k\lD@HkXKkPRkXUkPmD@MKrNKROKZ
 OL,26,APKzYkXZkU[kS]kxek\nD@MK}NK]OKUPKuZKx[ku
 OL,26,B\ksoD@NKrOKzpD@HkpKkxNK}OKuRkpUkx_Kgakq
-OL,26,CekyrawsD@LOjhD@@C@O`AY@CCCCCC
+OL,26,CekyrawsD@LOjhD@@C@S`A^@CCCCCC
 OL,2,T]W                                     
 OL,3,T]W                    xt     
 OL,4,T]W    `pp0 p  p `pp0  /% j   5     
@@ -24,6 +24,7 @@ OL,15, 192FLevel diagnostic with CLUTs
 OL,16, 193FLevel 1 black foreground diagnostic
 OL,18, 400FCharacter sets                     
 OL,20,CRECOVERED LEVEL 2.5 PAGES              
-OL,21, 201FCeefaxG202FOracleG203FNOS Teletekst
-OL,24,ACeefaxBOracleCNOS TtkstFCharacter sets 
-FL,201,202,203,400,1ff,1ff
+OL,21, 201FCeefax 1st picsG202FCeefax 2nd pics
+OL,22, 203FOracleG204FNOS Teletekst           
+OL,24,ACeefax 1stBOracleCNOS TltkstFChar sets 
+FL,201,203,204,400,1ff,1ff

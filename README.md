@@ -22,7 +22,7 @@ Page 193 tests the response of the "black foreground" control code on Level 1 an
 ### Magazine 2 - Recovered Level 2.5 pages and artworks
 This will intend to be both a collection of Level 2.5 teletext pages recovered from actual transmissions, and a collection of new Level 2.5 artworks made by teletext artists.
 
-Pages 201, 202 and 203 are the starting of recoveries of Ceefax, Oracle and NOS Teletekst respectively.
+Pages 201 and 202 are recoveries of Pages From Ceefax. Pages 203 and 204 are the starting of recoveries of Oracle and NOS Teletekst respectively.
 
 ### Magazine 4 - Character sets
 A collection of pages to demonstrate and diagnose the additional character sets.
