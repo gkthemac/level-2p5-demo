@@ -22,6 +22,7 @@ OL,13,CDIAGNOSTICS
 OL,14, 191FLevel diagnostic with Objects      
 OL,15, 192FLevel diagnostic with CLUTs        
 OL,16, 193FLevel 1 black foreground diagnostic
+OL,17, 194FDouble width/height spacing attrs  
 OL,18, 400FCharacter sets                     
 OL,20,CRECOVERED LEVEL 2.5 PAGES              
 OL,21, 201FCeefax 1st picsG202FCeefax 2nd pics

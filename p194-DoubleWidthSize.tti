@@ -1,0 +1,28 @@
+DE,Double width and height test
+PS,8000
+PN,19400
+SC,0000
+RE,0
+OL,1,CLevel 2.5 introduced new spacing       
+OL,2,Cattributes for double width and double 
+OL,3,Cheight text. Although not part of the  
+OL,4,CLevel 1/1.5 spec, some modern decoders 
+OL,5,Cseem to interpret them.                
+OL,6,  . . . . . .   . . . . .   .... . .    
+OL,7, ND o u b l e   W i d t h L normNobka d 
+OL,8,  ND o u b l e   W i d t hLnormNobka d  
+OL,9, OD o u b l e   S i z e  Nw i d t h     
+OL,10, ALine covered on d/size decoders only  
+OL,11, MOD/H e i g h t   t h e n   D/S i z e  
+OL,12, ALine covered on all decoders          
+OL,13,NACtFtBrEiAbDuAtEeBs G bHeIt w e e nXy  
+OL,14,Nc h aOrMacNt e r s ?A]CY eZsRD]WOL 
+OL,15, ALine covered on all decoders          
+OL,16,FCan this decoder do double width?      
+OL,17,WN D!O0U B0L!E S0W!I!D!T0HW 0N!O!T!     
+OL,18,WN S U P$P O RST$E$D$ $O$N W T$H$I$S    
+OL,19,WN P A R1T I CSU!L0A0R0  D EWC0O0D0E!R  
+OL,20,F Does this decoder interpret           
+OL,21,FOd o u b l e   s i z e ?               
+OL,22, MNo it doesn't, so no double size text 
+OL,23,  Yes it does, hopefully shown as d/size
